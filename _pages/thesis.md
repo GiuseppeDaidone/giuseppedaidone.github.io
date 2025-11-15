@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-# **Semi-fragile Watermarks for Generative AI Authenticity**
+**Semi-fragile Watermarks for Generative AI Authenticity**
 
 **Keywords**: Watermarking, Generative AI authenticity, Multimedia forensics 
 
