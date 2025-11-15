@@ -10,18 +10,11 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-thesis",
-          title: "thesis",
+          title: "Thesis",
           description: "Thesis proposals",
           section: "Navigation",
           handler: () => {
             window.location.href = "/thesis/";
-          },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
           },
         },{id: "post-a-post-with-plotly-js",
         
