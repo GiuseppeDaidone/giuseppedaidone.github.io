@@ -34,3 +34,6 @@ His research interests include (but not limited to):
 - Deep learning based techniques for malware analysis. 
 
 His research project focuses on _Watermarking and Proactive Defense against Malicious Generative AI_ in collaboration with [Agenzia per la Cybersicurezza Nazionale (ACN)](https://www.acn.gov.it/), President of the Council of Ministers. His PhD journey is supervised by Prof. I. Masi at [OmnAI Lab](https://omnai.di.uniroma1.it/), Department of Computer Science, Sapienza, and Prof. I. Amerini at [ALCOR Lab](https://alcorlab.diag.uniroma1.it/), Department of Computer, Control and Management Engineering, Sapienza.
+
+
+P.S. This website is under construction. Some information may be incorrect or miss.
