@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-**Semi-fragile Watermarks for Generative AI Authenticity**
+**[Semi-fragile Watermarks for Generative AI Authenticity](https://alcorlab.diag.uniroma1.it/thesis-and-internship/thesis-proposals#h.2nuwcu3198ao)**
 
 **Keywords**: Watermarking, Generative AI authenticity, Multimedia forensics 
 
