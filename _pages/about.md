@@ -2,10 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: _Ad Astra_
+subtitle: Ad Astra
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
