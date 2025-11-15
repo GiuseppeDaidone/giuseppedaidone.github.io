@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Giuseppe Daidone",
+    "label": "PhD Student in Cybersecurity",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "giuseppe.daidone@uniroma1.it",
+    "phone": "",
+    "url": "",
+    "summary": "PhD Student in Cybersecurity at Sapienza University of Rome, Luiss University, and Agenzia per la Cybersicurezza Nazionale (ACN). My research focuses on watermarking and proactive defense against malicious generative AI. Passionate about advancing cybersecurity through innovative research and practical applications.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
