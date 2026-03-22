@@ -1,7 +1,7 @@
 ---
 title: "Deefake Detection, Attribution, and Authentication: Insights from the FF4ALL Project"
 collection: publications
-#category: manuscripts
+category: conferences
 permalink: /publication/deepfake-detection-attribution-and-authentication
 excerpt: ''
 date: 2026-02-11
