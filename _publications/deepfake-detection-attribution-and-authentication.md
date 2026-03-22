@@ -1,9 +1,9 @@
 ---
 title: "Deefake Detection, Attribution, and Authentication: Insights from the FF4ALL Project"
 collection: publications
-category: manuscripts
+#category: manuscripts
 permalink: /publication/deepfake-detection-attribution-and-authentication
-#excerpt: ''
+excerpt: ''
 date: 2026-02-11
 venue: 'ITASEC'
 #slidesurl: 'https://giuseppedaidone.github.io/files/slides1.pdf'
