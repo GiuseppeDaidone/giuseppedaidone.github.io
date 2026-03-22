@@ -4,9 +4,6 @@ title: "Thesis Opportunities"
 permalink: /thesis-opportunities/
 author_profile: true
 ---
-
-# Open Positions
-
 I am always looking for motivated students to work on exciting research projects. Here a list of thesis opportunities.
 
 ---
