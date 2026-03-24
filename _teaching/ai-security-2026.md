@@ -1,7 +1,7 @@
 ---
 title: "AI Security"
 collection: teaching
-type: "Master's degree course"
+type: "Master's degree lecture"
 permalink: /teaching/ai-security-2026
 venue: "Sapienza University of Rome, Department of Computer Science, Aula Magna"
 date: 2026-04-16
