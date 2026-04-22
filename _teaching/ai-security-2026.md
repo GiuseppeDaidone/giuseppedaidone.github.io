@@ -10,4 +10,4 @@ location: "Rome, Italy"
 
 Given lecture on AI Security at Data and Network Security course to Cybersecurity and Computer Science Master's Degree students of Sapienza.
 
-Slides of the presentation: [TBA]()
+Slides of the presentation: [AI Security](/files/AI%20Security.pdf)
