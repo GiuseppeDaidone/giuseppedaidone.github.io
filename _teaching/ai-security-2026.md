@@ -8,6 +8,6 @@ date: 2026-04-16
 location: "Rome, Italy"
 ---
 
-Given lecture on AI Security at Data and Network Security course to Cybersecurity and Computer Science Master's Degree students of Sapienza.
+Given a lecture on AI security at the master's course of Data and Network Security, followed by the Cybersecurity and Computer Science master's students. The lecture comprised: Deep learning foundations, Threats of deep neural networks (adversarial attacks, poisoning, backdoors), and Deep neural networks as threats (deepfakes).
 
-Slides of the presentation: [AI Security](/files/AI%20Security.pdf)
+Slides of the presentation: [AI Security](/files/ai-security.pdf)

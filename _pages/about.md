@@ -38,4 +38,4 @@ His research interests include (but not limited to):
 
 His research project focuses on *Watermarking and Proactive Defense against Malicious Generative Al* in collaboration with the [National Cybersecurity Agency](https://www.acn.gov.it/portale/home) (ACN), President of the Council of Ministers. His PhD journey is supervised by [Prof. I. Masi](https://iacopomasi.github.io/) at [OmnAl Lab](https://omnai.di.uniroma1.it/), Department of Computer Science, Sapienza, and [Prof. I. Amerini](https://sites.google.com/diag.uniroma1.it/ireneamerini) at [ALCOR Lab](https://alcorlab.diag.uniroma1.it/), Department of Computer, Control and Management Engineering, Sapienza.
 
-Since 2026, he has been a member of the [Italian Intelligence Society](https://www.socint.org/) (SOCINT) for intelligence studies.
+Since 2026, he has been a member of the [Italian Intelligence Society](https://www.socint.org/) (SOCINT) for intelligence studies. He is also a member of the [Association for Computer Machinery](https://www.acm.org/) (ACM) in [Special Interest Group on Multimedia Systems](https://www.acm.org/special-interest-groups/sigs/sigmm) (SIGMM).
