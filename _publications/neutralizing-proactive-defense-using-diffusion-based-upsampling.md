@@ -7,7 +7,7 @@ excerpt: ''
 date: 2026-06-17
 venue: 'ACM IH&MMSec, Florence, Italy, June 17-19, 2026'
 slidesurl: 'https://giuseppedaidone.github.io/files/neutralizing-proactive-defense-using-diffusion-based-upsampling-slides.pdf'
-paperurl: 'https://dl.acm.org/doi/10.1145/3785353.3815091'
+paperurl: 'https://doi.org/10.1145/3785353.3815091'
 bibtexurl: 'https://giuseppedaidone.github.io/files/bibtex-ihmmsec26.bib'
 citation: 'Daidone, Giuseppe and Bartolucci, Filippo and Briglia, Maria Rosaria and Mirza, Mujtaba Hussain and Lisanti, Giuseppe and Masi, Iacopo, &quot;Neutralizing Proactive Defense using Diffusion-based Upsampling&quot;, <i>Proceedings of the 2026 ACM Workshop on Information Hiding and Multimedia Security</i>, 2026'
 ---
