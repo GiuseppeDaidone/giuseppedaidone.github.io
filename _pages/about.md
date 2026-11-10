@@ -17,7 +17,7 @@ redirect_from:
 
 ## 🎓 Academical background
 
--   **PhD in Cybersecurity**, Sapienza University of Rome and Luiss University (11/2025 - To date).
+-   **PhD in Cybersecurity**, Sapienza University of Rome and Luiss University, fully funded by the National Cybersecurity Agency (ACN) (11/2025 - To date).
 -   **Master's degree in Engineering in Computer Science**, Sapienza University of Rome (07/2025). Thesis: *Adversarial Attacks on Convolutional and Transformer Architectures for Image-based Malware Detection and Classification Tasks*, supervised by Prof. I. Amerini, co-supervised by Prof. L. Querzoni, co-examined by Prof. S. Bonomi.
 -   **Bachelor's degree in Computer Engineering**, University of Bergamo (06/2023). Thesis: *Exploration of Vulnerabilities Found in Electron Applications*, supervised by Prof. S. Paraboschi and Seclab.
 
